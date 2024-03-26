@@ -1,0 +1,8 @@
+GET https://65b83cd546324d531d560eab.mockapi.io/alunos
+
+###
+
+POST https://65b83cd546324d531d560eab.mockapi.io/alunos
+Content-Type: application/json
+
+{"nome": "Pedro", "idade": 17}

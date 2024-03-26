@@ -1,0 +1,8 @@
+GET http://localhost:8080/carros/
+
+###Post
+
+POST http://localhost:8080/carros/
+Content-Type: application/json
+
+{"Cuzin": "Cabeludo", "cor": "preto" }

@@ -1,0 +1,15 @@
+.container {
+    margin: 50px;
+    text-align: center;
+}
+
+#relogio {
+    background-color: black;
+    color: blue;
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 4px;
+    font-family: monospace;
+    font-size: 40px;
+    font-weight: bold;
+}

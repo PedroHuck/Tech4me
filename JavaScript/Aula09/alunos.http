@@ -1,0 +1,11 @@
+PUT https://65b83cd546324d531d560eab.mockapi.io/alunos/7
+Content-Type: application/json
+
+{
+    "nome": "Bruna Pires"
+}
+
+
+###
+
+DELETE https://65b83cd546324d531d560eab.mockapi.io/alunos/id

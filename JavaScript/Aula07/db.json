@@ -1,0 +1,177 @@
+{
+  "carros": [
+    {
+      "id": "1",
+      "aluno": "Zépa",
+      "montadora": "VW",
+      "modelo": "Nivus",
+      "cor": "Nardo gray",
+      "ano": 2024
+    },
+    {
+      "id": "2",
+      "aluno": "Wagner",
+      "montadora": "pegeout",
+      "modelo": "207",
+      "cor": "preto",
+      "ano": 2010
+    },
+    {
+      "id": "3",
+      "aluno": "Thiago ",
+      "montadora": "Fiat",
+      "modelo": "Uno",
+      "cor": "Preto",
+      "ano": 2001
+    },
+    {
+      "id": "4",
+      "aluno": "dario",
+      "montadora": "ferrari",
+      "modelo": "california",
+      "cor": "vermelha",
+      "ano": 2023
+    },
+    {
+      "id": "5",
+      "aluno": "Pedro Huck",
+      "montadora": "Porshe",
+      "modelo": "911",
+      "cor": "Verde",
+      "ano": 2022
+    },
+    {
+      "id": "6",
+      "aluno": "Gui",
+      "montadora": "Lamborghini",
+      "modelo": "Veneno",
+      "cor": "Vermelho",
+      "ano": 2020
+    },
+    {
+      "id": "7",
+      "aluno": "Kályta",
+      "montadora": "Fiat",
+      "modelo": "Bravo",
+      "cor": "Prata",
+      "ano": 2016
+    },
+    {
+      "id": "8",
+      "aluno": "Isis",
+      "montadora": "Chevrolet",
+      "modelo": "Onix",
+      "cor": "Laranja",
+      "ano": 2023
+    },
+    {
+      "id": "9",
+      "aluno": "Bruna",
+      "montadora": "Fiat",
+      "modelo": "Mobi",
+      "cor": "branco",
+      "ano": 2016
+    },
+    {
+      "id": "10",
+      "aluno": "Luan",
+      "montadora": "Jeep",
+      "modelo": "Troller",
+      "cor": "azul marinho",
+      "ano": 2013
+    },
+    {
+      "id": "11",
+      "aluno": "darionaldo",
+      "montadora": "Ford",
+      "modelo": "Maverick",
+      "cor": "Preto",
+      "ano": 1976
+    },
+    {
+      "id": "12",
+      "aluno": "Tiago",
+      "montadora": "Fiat",
+      "modelo": "Argo",
+      "cor": "azul",
+      "ano": 2017
+    },
+    {
+      "id": "13",
+      "aluna": "Tamires",
+      "montadora": "Honda",
+      "modelo": "Fit",
+      "cor": "preto",
+      "ano": 2023
+    },
+    {
+      "id": "14",
+      "aluno": "Endreus",
+      "montadora": "Uno",
+      "modelo": "attractive",
+      "cor": "verde limão",
+      "ano": 2004
+    },
+    {
+      "id": "15",
+      "aluno": "Andre Felipe",
+      "montadora": "Fiat",
+      "modelo": "Uno",
+      "cor": "Preto",
+      "ano": 1996
+    },
+    {
+      "id": "17",
+      "aluno": "Bernardo Barbosa",
+      "montadora": "Honda",
+      "modelo": "Civic",
+      "cor": "Preto",
+      "ano": 2018
+    },
+    {
+      "id": "a4d7"
+    },
+    {
+      "id": "19fe"
+    },
+    {
+      "id": "3e09"
+    },
+    {
+      "id": "868d",
+      "Cuzin": "Cabeludo",
+      "cor": "preto"
+    },
+    {
+      "id": "0773",
+      "Cuzin": "Cabeludo",
+      "cor": "preto"
+    },
+    {
+      "id": "2ee7",
+      "Cuzin": "Cabeludo",
+      "cor": "preto"
+    },
+    {
+      "id": "702c"
+    },
+    {
+      "id": "c402"
+    },
+    {
+      "id": "9e93"
+    },
+    {
+      "id": "075d"
+    },
+    {
+      "id": "3cad"
+    },
+    {
+      "id": "5b50"
+    },
+    {
+      "id": "8bd1"
+    }
+  ]
+}
