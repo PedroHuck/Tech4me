@@ -1,0 +1,30 @@
+//Momento 1. Declaração
+function obterLetra(candidato) {
+    const letra = candidato.substring(0, 1).toLocaleLowerCase();
+//Saída
+    console.log("A primeira letra do seu nome é: ")
+    console.log(letra)
+
+}
+
+
+const prompt = require("prompt-sync")();
+
+console.log("--Entrevistas do RH--");
+
+//const nome = prompt("Candidato, digite seu nome: ");
+
+//momento 2
+obterLetra("Xisto");
+obterLetra("Emilio");
+
+//---
+
+function soma(a, b) {
+    const total = a + b;
+    console.log("resposta da soma é: ", total);
+}
+
+// Chamada
+
+soma(2, 5);

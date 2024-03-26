@@ -1,0 +1,1 @@
+//crie um programa q de os numeros em extenso de 20 a 99;

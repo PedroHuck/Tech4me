@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    font-family: 'Playpen Sans', cursive;
+
+}
+
+.containerdois {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.pratolinha1 {
+    width: 372px;
+    height: 540px;
+
+    border: 1px solid;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+
+.pratolinha2 {
+    width: 372px;
+    height: 540px;
+
+    border: 1px solid;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+
+.menu-navegacao {
+    text-align: center;
+    margin: 50px;
+
+}
+
+img {
+    height: 350px;
+    width: 350px;
+}
+
+button {
+    background-color: rgb(255, 0, 0);
+    color: #fff;
+    padding: 20px 10px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}

@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cardápio</title>
+    <link rel="stylesheet" href="cardapio.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playpen+Sans:wght@100&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <nav class="menu-navegacao">
+        <h1> Azuki - Sabores do Japão </h1>
+        <a href="index.html"><button class="botao">Clique para voltar para a página principal</button></a>
+    </nav>
+    <div class="container1">
+        <div class="containerdois">
+            <div class="pratolinha1">
+                <img src="https://blog.zuccacogumelos.com.br/wp-content/uploads/2020/10/SHIMEJI-FRITO-COM-SHOYU-AZEITE-DE-GERGELIM-E-CEBOLINH.jpeg" alt="" />
+                <h2>Shimeji</h2>
+                <p>Shimeji na manteiga com shoyu e cebolinha </p>
+                <a href="informacoes_1.html" target="_blank"><button onclick="buscarDados()">Detalhes do Prato</button></a>
+            </div>
+            <div class="pratolinha1">
+                <img src="https://cdn.casaeculinaria.com/wp-content/uploads/2023/04/12121010/Carpaccio-de-salmao-1160x653.webp" alt="" />
+                <h2>Carpaccio de Salmão</h2>
+                <p>Carpaccio de Salmão com ervas frescas. </p>
+                <a href="informacoes_2.html" target="_blank"><button>Detalhes do Prato</button></a>
+            </div>
+            <div class="pratolinha1">
+                <img src="https://claudia.abril.com.br/wp-content/uploads/2020/02/receita-de-tartar-de-salmao.jpg?quality=85" alt="" />
+                <h2>Tartar de Salmão</h2>
+                <p>Delicioso Tartar de Salmão </p>
+                <a href="informacoes_2.html" target="_blank"><button>Detalhes do Prato</button></a>
+            </div>
+        </div>
+        <div class="containerdois">
+            <div class="pratolinha2">
+                <img src="https://scontent.fsdu30-1.fna.fbcdn.net/v/t1.6435-9/57586996_2096729563715411_7710023293448749056_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=7f8c78&_nc_ohc=XfUx5vtA7qkAX_V_rq2&_nc_ht=scontent.fsdu30-1.fna&oh=00_AfCcPsurL1mQIH-CWJVY6L5pDesFoRqrpCKlaTUq-3js5g&oe=66089598" alt="" />
+                <h2>Polvo Marinado</h2>
+                <p>Polvo Marinado com limão e azeite</p>
+                <a href="informacoes_2.html" target="_blank"><button>Detalhes do Prato</button></a>
+            </div>
+            <div class="pratolinha2">
+                <img src="https://scontent.fsdu30-1.fna.fbcdn.net/v/t1.6435-9/39389001_2668884739804234_911674802203262976_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=7f8c78&_nc_ohc=xQIAXIyp0KsAX9aR9Cp&_nc_ht=scontent.fsdu30-1.fna&oh=00_AfAbMBaWMkX5qc_qidetOVRRtBEklp7I8oMFYiLVZqYzjg&oe=66088A1D" alt="" />
+                <h2>Temaki de Salmão Trufado</h2>
+                <p>Temaki de Salmão trufado com raspas de limão </p>
+                <a href="informacoes_2.html" target="_blank"><button>Detalhes do Prato</button></a>
+            </div>
+            <div class="pratolinha2">
+                <img src="https://alloydeliveryimages.s3.sa-east-1.amazonaws.com/item_images/623b252c85a10.webp" alt="" />
+                <h2>Niguiri de camarão </h2>
+                <p>Niguiri de camarão Enrolado com algas marinhas </p>
+                <a href="informacoes_2.html" target="_blank"><button>Detalhes do Prato</button></a>
+            </div>
+        </div>
+    </div>
+    
+    <form action="formrespostas.html" method="post" class="form" id="forms">
+        <h2>Quer receber mais novidades sobre esse prato e o restaurante?</h2>
+        <label for="email">Email:</label><br>
+        <input type="email" placeholder="email" id="email">
+        <span id="ErroDeEmail" class="erro"></span><br>
+      
+        <label for="novidades">Quero receber novidades</label>
+        <div id="checkbox-quadrado">
+            
+            <input type="checkbox" id="checkbox">
+        </div>
+        <span id="ErroCheckbox" class="erro"></span><br>
+      
+        <button onclick="passarFormulario()">Enviar</button>
+    </form>
+    
+    
+    
+    
+    
+</body>
+
+<script src="cardapio.js"></script>
+<script src="informacao.js"></script>
+
+
+</html>

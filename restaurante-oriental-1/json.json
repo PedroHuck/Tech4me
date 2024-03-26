@@ -1,0 +1,45 @@
+[
+    {
+        "aluno": "Pedro Huck",
+        "restaurante": "Azuki-Sabores do Japão",
+        "imagem": "https://blog.zuccacogumelos.com.br/wp-content/uploads/2020/10/SHIMEJI-FRITO-COM-SHOYU-AZEITE-DE-GERGELIM-E-CEBOLINH.jpeg",
+        "produto": "Shimeji",
+        "descricao": "Shimeji na manteiga com shoyu e cebolinha, perfeito para acompanhamentos, os cogumelos tem textura firme e sabor terroso."
+    },
+    {
+        "aluno": "Pedro Huck",
+        "restaurante": "Azuki-Sabores do Japão",
+        "imagem": "https://cdn.casaeculinaria.com/wp-content/uploads/2023/04/12121010/Carpaccio-de-salmao-1160x653.webp",
+        "produto": "Carpaccio de Salmão",
+        "descricao": "Explendido Carpaccio de Salmão feito com limão e salsinha. Uma opção leve para quem aprecia o sabor delicado do salmão"
+    },
+    {
+        "aluno": "Pedro Huck",
+        "restaurante": "Azuki-Sabores do Japão",
+        "imagem": "https://alloydeliveryimages.s3.sa-east-1.amazonaws.com/item_images/623b252c85a10.webp",
+        "produto": "Tartar de salmao com raspas de limão",
+        "descricao": "Delicioso Tartar de salmão com limão, opção leve e saborosa que realça o sabor e a textura do salmão"
+    },
+    {
+        "aluno": "Pedro Huck",
+        "restaurante": "Azuki-Sabores do Japão",
+        "imagem": "https://scontent.fsdu30-1.fna.fbcdn.net/v/t1.6435-9/57586996_2096729563715411_7710023293448749056_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=7f8c78&_nc_ohc=XfUx5vtA7qkAX_V_rq2&_nc_ht=scontent.fsdu30-1.fna&oh=00_AfCcPsurL1mQIH-CWJVY6L5pDesFoRqrpCKlaTUq-3js5g&oe=66089598",
+        "produto": "Polvo Marinado",
+        "descricao": "Polvo Marinado com limão, azeite e outros temperos, prato macio e saboroso"
+    },
+    {
+        "aluno": "Pedro Huck",
+        "restaurante": "Azuki-Sabores do Japão",
+        "imagem": "https://scontent.fsdu30-1.fna.fbcdn.net/v/t1.6435-9/39389001_2668884739804234_911674802203262976_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=7f8c78&_nc_ohc=xQIAXIyp0KsAX9aR9Cp&_nc_ht=scontent.fsdu30-1.fna&oh=00_AfAbMBaWMkX5qc_qidetOVRRtBEklp7I8oMFYiLVZqYzjg&oe=66088A1D",
+        "produto": "Temaki de Salmão Trufado",
+        "descricao": "Delicioso Temaki de Salmão cru Trufado com raspas de limão siciliano enrolado em algas"
+    },
+    {
+        "aluno": "Pedro Huck",
+        "restaurante": "Azuki-Sabores do Japão",
+        "imagem": "https://alloydeliveryimages.s3.sa-east-1.amazonaws.com/item_images/623b252c85a10.webp",
+        "produto": "Niguiri de Camarão",
+        "descricao": "Camarão sobre almofada de arroz enrolado com alga marinha"
+    }
+   
+]
