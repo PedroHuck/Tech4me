@@ -15,6 +15,7 @@ function App() {
       setEnderecoImagem(dadosNASA.data.url)
       const dataBr = moment(new Date(dadosNASA.data.date)).format("DD/MM/YYYY")
       setData(dataBr)
+      
     })
   }
 
